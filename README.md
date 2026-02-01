@@ -2,7 +2,7 @@
 
 *R* package to access Carob standardized data so that these can easily be included in analytical workflows.
 
-You can install this package with 
+You can install the package with 
 
 ```
 remotes::install_github("carob-data/caramba")
